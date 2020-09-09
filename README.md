@@ -1,4 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br>
 <a href="mailto:ayushagrawal070@gmail.com" target="_blank">
   <img align="left" alt="Ayush's Email ID" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -17,12 +18,14 @@
 <a href="https://www.instagram.com/ayushagrawal001/">
   <img align="left" alt="Ayush's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br/>
+<br>
 
-<br />
 - 🔭 I’m currently working on a Mail Server Project
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning ML and Flutter
 - 👯 I’m looking to collaborate on Django, Flutter Projects
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help
+
 
 
 **Languages and Tools:** 
