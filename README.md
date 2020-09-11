@@ -21,7 +21,7 @@
 <br/>
 <br>
 
-- 🔭 I’m currently working on a Mail Server Project
+- 🔭 I’m currently working on a cool project 
 - 🌱 I’m currently learning ML and Flutter
 - 👯 I’m looking to collaborate on Django, Flutter Projects
 - 💬 Ask me about anything, I am happy to help
